@@ -1,0 +1,67 @@
+<?xml version = '1.0' encoding = 'UTF-8' ?>
+
+<employees>
+    <employee>
+        <personalInfo>
+            <firstName>Rajesh</firstName>
+            <lastName>Nair</lastName>
+            <Dob>1985-02-12</Dob>
+            <gender>Male</gender>
+        </personalInfo>
+        <EmployeeInfo>
+            <position>Senior Manager</position>
+            <salary>200000</salary>
+        </EmployeeInfo>
+        <contactInfo>
+            <email>nairrajesh@gmail.com</email>
+        </contactInfo>
+    </employee>
+    <employee>
+        <personalInfo>
+            <firstName>Rajesh</firstName>
+            <lastName>Nair</lastName>
+            <Dob>1985-02-12</Dob>
+            <gender>Male</gender>
+        </personalInfo>
+        <EmployeeInfo>
+            <position>Senior Manager</position>
+            <salary>2000000</salary>
+        </EmployeeInfo>
+        <contactInfo>
+            <email>nairrajesh@gmail.com</email>
+            <phoneNumber>9975432437</phoneNumber>
+        </contactInfo>
+    </employee>
+    <employee>
+        <personalInfo>
+            <firstName>Rahul</firstName>
+            <lastName>V</lastName>
+            <Dob>1995-01-25</Dob>
+            <gender>Male</gender>
+        </personalInfo>
+        <EmployeeInfo>
+            <position>Senior Developer</position>
+            <salary>400000</salary>
+        </EmployeeInfo>
+        <contactInfo>
+            <email>rahulhere@gmail.com</email>
+            <phoneNumber>9875432437</phoneNumber>
+        </contactInfo>
+    </employee>
+    <employee>
+        <personalInfo>
+            <firstName>Febin</firstName>
+            <lastName>Benny</lastName>
+            <Dob>1996-07-25</Dob>
+            <gender>Male</gender>
+        </personalInfo>
+        <EmployeeInfo>
+            <position>HR Manager</position>
+            <salary>500000</salary>
+        </EmployeeInfo>
+        <contactInfo>
+            <email>febinbenny@gmail.com</email>
+            <phoneNumber>988875432437</phoneNumber>
+        </contactInfo>
+    </employee>
+</employees>
